@@ -7,6 +7,8 @@ import numpy as np
 import torch
 from torch.utils.data import Dataset
 
+#处理轨迹数据
+
 logger = logging.getLogger(__name__)
 
 
